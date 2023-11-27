@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+}
+
+.contenedor {
+    overflow: hidden;
+}
+
+.rostro {
+    fill: #ffe0bd;
+    stroke: #cc8e35;
+    stroke-width: 10;
+}
+
+.ojo {
+    fill: #000;
+}
+
+.boca {
+    fill: none;
+    stroke: #cc8e35;
+    stroke-width: 10;
+}
+
+.ceja {
+    stroke: #cc8e35;
+    stroke-width: 8;
+}
